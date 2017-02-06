@@ -1,0 +1,54 @@
+
+header{
+	position: relative;
+	height: 30%;
+	background-color: red;
+}
+header img{
+	width: 75%;
+	height: 350px;
+	margin-left: 12%;
+	position: absolute;
+}
+
+#breif {
+	background-color: orange;
+	width: 15%;
+
+}
+
+ #content {
+ 	position: relative;
+ }
+ #nav {
+ 	position: absolute;
+ }
+#nav img {
+	height: 40%;
+	width: 55%;
+	margin-top: 60%;
+	margin-left: 10%;
+	z-index: -1;
+}
+
+nav {
+	position: absolute;
+	margin-top: 20%;
+	margin-left: 3%;
+
+}
+ li {
+ 	padding-top: 35%;
+ }
+
+ #box1 {
+ 	background-color: red;
+ 	width: 35%;
+ 	height: 35%;
+ }
+ #box2 {
+ 	background-color: blue;
+ 	width: 35%;
+ 	height: 35%;
+
+ }
